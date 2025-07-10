@@ -1,0 +1,2 @@
+# Diabetes-prediction-using-Support-Vector-Machine-Python-Machine-learning-project
+The pima data set on diabetes was obtained from kaggle,loaded through pandas,preprocessed by standardizing data to same ranges using sklearn standard scalar fit transform methods,function, support vector classifier was used to classify datapoints into classes,once we got training and testing accuracies,then a predictive system was made to classify.
